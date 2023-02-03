@@ -1,6 +1,8 @@
 Apellidos
 Orozco
 Castañeda
+Vega
+Campos
 Muñoz
 González
 Durán
