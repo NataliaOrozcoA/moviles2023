@@ -13,3 +13,6 @@ lopez
 gomez
 Ramirez
 torres
+Castillo
+Arizaga
+Alvarado
