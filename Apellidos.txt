@@ -10,3 +10,6 @@ Raygoza
 Bernal
 Castro
 lopez
+gomez
+Ramirez
+torres
