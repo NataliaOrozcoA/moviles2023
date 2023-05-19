@@ -1,0 +1,16 @@
+
+{
+  "name": "prueba01",
+  "version": "1.0.0",
+  "description": "intento 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.22.0",
+    "ionic": "^5.4.16"
+  }
+}
